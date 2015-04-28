@@ -2,7 +2,7 @@
 
 ## [Markup](Markup.md)
 
-How should the HTML look like.
+How the HTML should look.
 
 ## [Calling](Calling.md)
 
